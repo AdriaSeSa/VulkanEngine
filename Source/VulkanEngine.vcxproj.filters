@@ -3,4 +3,7 @@
   <ItemGroup>
     <ClCompile Include="Engine\main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Engine\ValidationLayers.h" />
+  </ItemGroup>
 </Project>
