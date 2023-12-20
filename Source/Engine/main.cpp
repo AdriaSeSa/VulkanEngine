@@ -10,6 +10,7 @@
 #include <Windows.h> // To show an error in a box even in release.
 #include <optional> // To use std::optional. Black magic.   
 
+
 const uint32_t WINDOW_WIDTH = 800;
 const uint32_t WINDOW_HEIGHT = 600;
 
